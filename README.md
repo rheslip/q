@@ -1,5 +1,9 @@
 # ![Q-Logo](docs/assets/images/q-logo-small.png) Audio DSP Library
 
+
+Fork of the Q library before the pitch detection algorithms get pulled in April 2021 - see author's announcement below.
+
+
 [![CMake Build Matrix](https://github.com/cycfi/q/workflows/Build/badge.svg)](https://github.com/cycfi/q/actions?query=workflow%3ABuild)
 
 ## Introduction
